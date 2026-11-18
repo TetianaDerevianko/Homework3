@@ -1,0 +1,3 @@
+Чекліст якості даних («ризик / як виявили / рішення») можна було створити у ноутбуці або окремим файлом. 
+Я додала ризики у файл lesson3_Derevianko.ipynb. Чи треба обовязково  в окремий файл lesson3_checklist_ПРІЗВИЩЕ?
+У файлі lesson3_inventory_Derevianko.ipynb  перетворюю Data_inventory.xlsx в md (lesson3_inventory_Derevianko.md)
